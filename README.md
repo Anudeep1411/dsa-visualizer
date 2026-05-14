@@ -1,16 +1,45 @@
-# React + Vite
+# DSA Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beginner-friendly Data Structures and Algorithms visualizer built using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://dsa-visualizer-six-cyan.vercel.app/
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Interactive DSA visualizers
+- Topic-wise explanations
+- Operation-wise complexity
+- Code examples in Python, Java, C, and C++
+- Copy code option
+- Clean beginner-friendly UI
 
-## Expanding the ESLint configuration
+## Topics Included
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Sorting Algorithms
+- Searching Algorithms
+- Stack
+- Queue
+- Singly Linked List
+- Doubly Linked List
+- Two Pointers
+- Sliding Window
+- Tree / Binary Search Tree
+- Graph BFS and DFS
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- Vercel
+
+## Purpose
+
+This project helps students understand DSA concepts visually instead of only reading theory.
+
+## Author
+
+Anudeep
