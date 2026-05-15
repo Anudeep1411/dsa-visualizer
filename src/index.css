@@ -1,2 +1,11 @@
 @import "tailwindcss";
-body { margin: 0; }
+
+body {
+  margin: 0;
+}
+
+@layer components {
+  .pill {
+    @apply rounded-full bg-slate-800 px-3 py-1 text-xs text-slate-300;
+  }
+}
