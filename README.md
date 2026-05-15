@@ -15,6 +15,23 @@ https://dsa-visualizer-six-cyan.vercel.app/
 - Copy code option
 - Clean beginner-friendly UI
 
+- ## Screenshots
+
+### Home Page
+![Home Page](public/screenshots/home.png)
+
+### Sorting Visualizer
+![Sorting Visualizer](public/screenshots/sorting.png)
+
+### Notes Section
+![Notes Section](public/screenshots/notes.png)
+
+### Interview Prep
+![Interview Prep](public/screenshots/interview.png)
+
+### Graph Visualizer
+![Graph Visualizer](public/screenshots/graph.png)
+
 ## Topics Included
 
 - Sorting Algorithms
